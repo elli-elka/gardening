@@ -6,7 +6,7 @@
 /* Position the image container (needed to position the left and right arrows) */
 .container {
     position: relative;
-    width: 900px;
+    display: block;
 
 }
 
